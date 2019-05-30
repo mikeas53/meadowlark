@@ -1,0 +1,8 @@
+# игнорировать npm - пакеты
+node_modules
+node_modules/
+.log
+build/
+.idea/
+my_notes.txt
+*~
