@@ -1,9 +1,11 @@
 # игнорировать npm - пакеты
 node_modules
 node_modules/
-.log
+data/
 build/
 .idea/
+log/
+.log
 my_notes.txt
 *~
 # we don't want to accidentally check our secret credentials into the repo
